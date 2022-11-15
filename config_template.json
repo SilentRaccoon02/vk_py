@@ -1,0 +1,17 @@
+{
+  "vk": {
+    "token": "",
+    "version": 5.131,
+    "group_id": "",
+    "offset_size": 1000,
+    "user_limit": 1000,
+    "sub_limit": 500
+  },
+  "db": {
+    "host": "127.0.0.1",
+    "port": 5432,
+    "user": "postgres",
+    "password": 0,
+    "name": ""
+  }
+}
